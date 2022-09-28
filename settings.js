@@ -96,18 +96,18 @@ global.antitags = true
 global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
-    success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️✏️ _This Feature Is Only For Owner!_',
-    group: '✉️✏️ _Feature Used Only For Groups!_',
-    private: '✉️✏️ _Features Used Only For Private Chat!_',
-    bot: '✉️✏️ _This Feature Is Only For Bot_',
-    wait: '✉️✏️ _Processing Please Wait..._',
-    linkm: '📧✏️ _Where is the link?_',
-    error: '✉️🤕 ```Error!!```',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
+    success: '✉️✏️ _Wes Bro!_',
+    admin: '✉️✏️ _Fitur ini hanya untuk admin!_',
+    botAdmin: '✉️✏️ _Bot harus jadi admin terlebih dahulu!_',
+    owner: '✉️✏️ _Fitur ini hanya untuk owner!_',
+    group: '✉️✏️ _Fitur ini hanya untuk group!_',
+    private: '✉️✏️ _Fitur ini hanya bisa digunakan Dichat pribadi!_',
+    bot: '✉️✏️ _Fitur ini hanya untuk bot_',
+    wait: '✉️✏️ _Lagi proses, sabar dikit ngentot..._',
+    linkm: '📧✏️ _Mana linknya pantek?_',
+    error: '✉️🤕 ```Otak gw eror cok!```',
+    endLimit: 'Daily limitmu sudah habis, limit akan direfresh setiap 12jam',
+    ban: 'Kamu telah dibanned , contact owner jika mau di unbanned.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
     banChat: 'The bot was banned in this group, please contact the owner to unban'
 }
